@@ -7,10 +7,10 @@
   <samp>
     Hello, I'm Pyae Phyo Kyaw! <br>
     I am freelance Android Developer  <br>
-    :computer: Currently working as a Junior IT Technician<br>
+    :computer: Currently working as a Mobile Developer<br>
     :heart: Favorite Tech: Java, Kotlin,Jetpack Compose, Swift, SwiftUI<br>
     :email:	pyaehho1259@gmail.com <br>
-    :art: <br>
+    :art: MVVM and MVP with clean architecture are my favourite art!<br>
   
   </samp>
 </p>
